@@ -1,0 +1,14 @@
+<perldata>
+ <arrayref memory_address="0x78aea70">
+  <item key="0">
+   <hashref memory_address="0x78ae638">
+    <item key="absolute_path">C:\Jeyaraj\Booking_Dump/Commercial_Booking_FY16Q4M3 (downloaded on 2016-07-24) - 1850hrs.xlsx</item>
+    <item key="main_sheet">Commercial_Booking</item>
+    <item key="unique_customers">unique_customers</item>
+    <item key="unique_partners">unique_partners</item>
+    <item key="unique_sales_agents">unique_sales_agents</item>
+    <item key="unique_technologies">unique_technologies</item>
+   </hashref>
+  </item>
+ </arrayref>
+</perldata>

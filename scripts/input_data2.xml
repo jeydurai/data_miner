@@ -1,0 +1,10 @@
+<perldata>
+ <arrayref memory_address="0x33e428">
+  <item key="0">
+   <hashref memory_address="0x33e350">
+    <item key="absolute_path">C:\Jeyaraj\Analysis\Prem\FY16\Q1-Performance/INDIA_Weekly_Funnel_Report_FY16Q2WK02.xlsx</item>
+    <item key="unique_customers">unique_customers_2</item>
+   </hashref>
+  </item>
+ </arrayref>
+</perldata>
